@@ -1,0 +1,258 @@
+{
+  "pages": {
+    "compress-image-to-10kb": {
+      "slug": "compress-image-to-10kb",
+      "targetSize": 10,
+      "canonical": "https://myguyai.com/compress-image-to-10kb",
+      "keywords": ["compress image to 10kb", "reduce image size 10kb", "10kb photo compressor"],
+      "useCase": "Essential for strict form uploads, government portals, and minimal file size requirements.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 10KB", "url": "/compress-image-to-10kb" }
+      ],
+      "priority": "0.7"
+    },
+    "compress-image-to-15kb": {
+      "slug": "compress-image-to-15kb",
+      "targetSize": 15,
+      "canonical": "https://myguyai.com/compress-image-to-15kb",
+      "keywords": ["compress image to 15kb", "reduce photo 15kb", "15kb image compressor"],
+      "useCase": "Ideal for signature images, small avatars, and low-bandwidth applications.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 15KB", "url": "/compress-image-to-15kb" }
+      ],
+      "priority": "0.7"
+    },
+    "compress-image-to-20kb": {
+      "slug": "compress-image-to-20kb",
+      "targetSize": 20,
+      "canonical": "https://myguyai.com/compress-image-to-20kb",
+      "keywords": ["compress image to 20kb", "reduce image size 20kb", "photo compressor 20kb"],
+      "useCase": "Perfect for government forms, visa applications, job portals, and strict file size requirements.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 20KB", "url": "/compress-image-to-20kb" }
+      ],
+      "priority": "0.9"
+    },
+    "compress-image-to-25kb": {
+      "slug": "compress-image-to-25kb",
+      "targetSize": 25,
+      "canonical": "https://myguyai.com/compress-image-to-25kb",
+      "keywords": ["compress image to 25kb", "reduce photo 25kb", "25kb photo compressor"],
+      "useCase": "Great for application forms, ID photos, and document attachments.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 25KB", "url": "/compress-image-to-25kb" }
+      ],
+      "priority": "0.7"
+    },
+    "compress-image-to-30kb": {
+      "slug": "compress-image-to-30kb",
+      "targetSize": 30,
+      "canonical": "https://myguyai.com/compress-image-to-30kb",
+      "keywords": ["compress image to 30kb", "reduce image 30kb", "30kb image reducer"],
+      "useCase": "Suitable for online forms, small thumbnails, and quick file sharing.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 30KB", "url": "/compress-image-to-30kb" }
+      ],
+      "priority": "0.7"
+    },
+    "compress-image-to-40kb": {
+      "slug": "compress-image-to-40kb",
+      "targetSize": 40,
+      "canonical": "https://myguyai.com/compress-image-to-40kb",
+      "keywords": ["compress image to 40kb", "reduce photo 40kb", "40kb compressor"],
+      "useCase": "Works well for profile pictures, forum avatars, and email signatures.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 40KB", "url": "/compress-image-to-40kb" }
+      ],
+      "priority": "0.7"
+    },
+    "compress-image-to-50kb": {
+      "slug": "compress-image-to-50kb",
+      "targetSize": 50,
+      "canonical": "https://myguyai.com/compress-image-to-50kb",
+      "keywords": ["compress image to 50kb", "reduce photo to 50kb", "50kb image compressor"],
+      "useCase": "Ideal for email signatures, profile photos, social media thumbnails, and faster web loading.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 50KB", "url": "/compress-image-to-50kb" }
+      ],
+      "priority": "0.9"
+    },
+    "compress-image-to-75kb": {
+      "slug": "compress-image-to-75kb",
+      "targetSize": 75,
+      "canonical": "https://myguyai.com/compress-image-to-75kb",
+      "keywords": ["compress image to 75kb", "reduce photo 75kb", "75kb image compressor"],
+      "useCase": "Balanced option for web images, blog posts, and social media content.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 75KB", "url": "/compress-image-to-75kb" }
+      ],
+      "priority": "0.7"
+    },
+    "compress-image-to-100kb": {
+      "slug": "compress-image-to-100kb",
+      "targetSize": 100,
+      "canonical": "https://myguyai.com/compress-image-to-100kb",
+      "keywords": ["compress image to 100kb", "100kb photo compressor", "reduce image 100kb"],
+      "useCase": "Great for blog images, product photos, documentation, and balanced quality-size optimization.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 100KB", "url": "/compress-image-to-100kb" }
+      ],
+      "priority": "0.9"
+    },
+    "compress-image-to-150kb": {
+      "slug": "compress-image-to-150kb",
+      "targetSize": 150,
+      "canonical": "https://myguyai.com/compress-image-to-150kb",
+      "keywords": ["compress image to 150kb", "reduce photo 150kb", "150kb compressor"],
+      "useCase": "Perfect for website banners, product galleries, and marketing materials.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 150KB", "url": "/compress-image-to-150kb" }
+      ],
+      "priority": "0.7"
+    },
+    "compress-image-to-200kb": {
+      "slug": "compress-image-to-200kb",
+      "targetSize": 200,
+      "canonical": "https://myguyai.com/compress-image-to-200kb",
+      "keywords": ["compress image to 200kb", "reduce image 200kb", "200kb photo reducer"],
+      "useCase": "Excellent for e-commerce product images, web galleries, and online portfolios.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 200KB", "url": "/compress-image-to-200kb" }
+      ],
+      "priority": "0.7"
+    },
+    "compress-image-to-250kb": {
+      "slug": "compress-image-to-250kb",
+      "targetSize": 250,
+      "canonical": "https://myguyai.com/compress-image-to-250kb",
+      "keywords": ["compress image to 250kb", "reduce photo 250kb", "250kb image compressor"],
+      "useCase": "Ideal for high-quality web images, blog featured images, and social sharing.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 250KB", "url": "/compress-image-to-250kb" }
+      ],
+      "priority": "0.6"
+    },
+    "compress-image-to-300kb": {
+      "slug": "compress-image-to-300kb",
+      "targetSize": 300,
+      "canonical": "https://myguyai.com/compress-image-to-300kb",
+      "keywords": ["compress image to 300kb", "reduce image 300kb", "300kb photo compressor"],
+      "useCase": "Suitable for detailed product shots, portfolio images, and presentation slides.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 300KB", "url": "/compress-image-to-300kb" }
+      ],
+      "priority": "0.6"
+    },
+    "compress-image-to-400kb": {
+      "slug": "compress-image-to-400kb",
+      "targetSize": 400,
+      "canonical": "https://myguyai.com/compress-image-to-400kb",
+      "keywords": ["compress image to 400kb", "reduce photo 400kb", "400kb image reducer"],
+      "useCase": "Works well for large thumbnails, hero images, and marketing banners.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 400KB", "url": "/compress-image-to-400kb" }
+      ],
+      "priority": "0.6"
+    },
+    "compress-image-to-500kb": {
+      "slug": "compress-image-to-500kb",
+      "targetSize": 500,
+      "canonical": "https://myguyai.com/compress-image-to-500kb",
+      "keywords": ["compress image to 500kb", "500kb photo compressor", "reduce image 500kb"],
+      "useCase": "Perfect for presentations, portfolios, and when you need good quality with reasonable file size.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 500KB", "url": "/compress-image-to-500kb" }
+      ],
+      "priority": "0.7"
+    },
+    "compress-image-to-750kb": {
+      "slug": "compress-image-to-750kb",
+      "targetSize": 750,
+      "canonical": "https://myguyai.com/compress-image-to-750kb",
+      "keywords": ["compress image to 750kb", "reduce photo 750kb", "750kb compressor"],
+      "useCase": "Great for high-resolution web content, detailed infographics, and quality-focused uploads.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 750KB", "url": "/compress-image-to-750kb" }
+      ],
+      "priority": "0.6"
+    },
+    "compress-image-to-1mb": {
+      "slug": "compress-image-to-1mb",
+      "targetSize": 1024,
+      "canonical": "https://myguyai.com/compress-image-to-1mb",
+      "keywords": ["compress image to 1mb", "1mb photo compressor", "reduce image 1mb"],
+      "useCase": "Ideal for high-resolution photos, professional portfolios, and when maximum quality is needed.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 1MB", "url": "/compress-image-to-1mb" }
+      ],
+      "priority": "0.7"
+    },
+    "compress-image-to-2mb": {
+      "slug": "compress-image-to-2mb",
+      "targetSize": 2048,
+      "canonical": "https://myguyai.com/compress-image-to-2mb",
+      "keywords": ["compress image to 2mb", "2mb photo compressor", "reduce image 2mb"],
+      "useCase": "Perfect for photography portfolios, print-ready images, and professional submissions.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 2MB", "url": "/compress-image-to-2mb" }
+      ],
+      "priority": "0.6"
+    },
+    "compress-image-to-5mb": {
+      "slug": "compress-image-to-5mb",
+      "targetSize": 5120,
+      "canonical": "https://myguyai.com/compress-image-to-5mb",
+      "keywords": ["compress image to 5mb", "5mb photo compressor", "reduce image 5mb"],
+      "useCase": "Excellent for high-quality photography, large format printing, and archival purposes.",
+      "breadcrumbs": [
+        { "name": "Home", "url": "/" },
+        { "name": "Image Tools", "url": "/image-tools" },
+        { "name": "Compress to 5MB", "url": "/compress-image-to-5mb" }
+      ],
+      "priority": "0.6"
+    }
+  },
+  "site": {
+    "name": "MyGuyAI",
+    "domain": "https://myguyai.com",
+    "logo": "https://customer-assets.emergentagent.com/job_utility-zone/artifacts/7jqs10df_4EDA5521-A42C-49AC-9353-168AA2691ABC.png",
+    "email": "admin@myguyai.com",
+    "description": "Free online tools for image compression, resizing, and PDF management."
+  }
+}

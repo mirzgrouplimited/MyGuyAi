@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
+import { Analytics } from '@vercel/analytics/react';
 import { Toaster } from '@/components/ui/sonner';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
@@ -77,6 +78,7 @@ function App() {
           </Routes>
           <Toaster position="top-center" />
         </div>
+        <Analytics />
       </BrowserRouter>
     </HelmetProvider>
   );

@@ -2,16 +2,8 @@
   "routes": [
     { "handle": "filesystem" },
 
-    {
-      "src": "^/sitemap\\.xml$",
-      "headers": { "Content-Type": "application/xml" },
-      "dest": "/sitemap.xml"
-    },
-    {
-      "src": "^/robots\\.txt$",
-      "headers": { "Content-Type": "text/plain" },
-      "dest": "/robots.txt"
-    },
+    { "src": "^/sitemap\\.xml$", "dest": "/sitemap.xml" },
+    { "src": "^/robots\\.txt$", "dest": "/robots.txt" },
 
     { "src": "/(.*)", "dest": "/index.html" }
   ]

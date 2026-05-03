@@ -1,9 +1,9 @@
 {
   "routes": [
-    { "handle": "filesystem" },
-
     { "src": "^/sitemap\\.xml$", "dest": "/sitemap.xml" },
     { "src": "^/robots\\.txt$", "dest": "/robots.txt" },
+
+    { "handle": "filesystem" },
 
     { "src": "/(.*)", "dest": "/index.html" }
   ]
